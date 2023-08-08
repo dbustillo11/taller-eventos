@@ -1,4 +1,4 @@
-document.addEventListener(function () {
+document.addEventListener("DOMContentLoaded", function () {
     const divBtn = document.getElementById("div-btn");
   
     divBtn.addEventListener("click", function () {
